@@ -4,11 +4,15 @@
   "flow.useNPMPackagedFlow": false,
   "flow.enabled": true,
   "window.zoomLevel": -1,
+  "editor.multiCursorModifier": "ctrlCmd",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+  "files.autoSave": "afterDelay",
   "editor.renderIndentGuides": false,
   "javascript.validate.enable": false,
   "html.format.wrapLineLength": 120,
+  "zenMode.hideLineNumbers": false,
   "workbench.sideBar.location": "left",
   "gitlens.keymap": "alternate",
   "breadcrumbs.enabled": true,
@@ -68,5 +72,5 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.colorTheme": "Agila Origin Oceanic Next"
+  "workbench.colorTheme": "Agila Oceanic Next"
 }
